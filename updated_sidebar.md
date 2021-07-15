@@ -49,7 +49,8 @@ For a more complete list of interesting I2P services, read the [Guide to I2P ser
 * [Notbob](http://notbob.i2p) List online .i2p sites and categorizes them
 * [I2P Name Registry](http://inr.i2p)
 * [Another I2P Name Registry](http://reg.i2p) operated by PurpleI2P Team
-* [Another I2P Name Registry and checking tools to see if a eepsite is offline.](http://dns.chudo.i2p)
+* [Another I2P Name Registry](http://dns.chudo.i2p)
+* [Another I2P Name Registry and checking tools to see if a eepsite is offline.](http://isitup.i2p)
 * [Legwork search engine](http://legwork.i2p)
 * [Another i2p search engine](http://i2pyacy.bandura.i2p)
 * [Another i2p search engine](http://yacy.idk.i2p)
