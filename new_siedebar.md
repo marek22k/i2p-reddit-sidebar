@@ -77,7 +77,8 @@ An open source system for operating distributed forums in anonymous networks
 * syndie.welterde.i2p
 
 ## Inproxies
-* i2phides.me / i2p-inproxy.mk16.de
+You can use inproxies to surf the I2P network without having to have an I2P router.
+* i2phides.me / i2p.mk16.de (i2p-inproxy.mk16.de)
 * onion.ly
 * www.darknetproxy.com
 
