@@ -77,21 +77,6 @@ An open source system for operating distributed forums in anonymous networks
 * onion.ly
 * www.darknetproxy.com
 
-# Sister Subreddits
-* /r/i2ptorrenting
-* /r/onions
-* /r/Torrents
-* /r/Anoncoin
-* /r/Bitcoin
-* /r/Darknetplan
-* /r/Privacy
-* /r/Crypto
-* /r/CryptoAnarchy
-* /r/P2P
-* /r/Filesharing
-* /r/evolutionReddit
-* /r/NSALeaks
-
 Follow us on [](https://twitter.com/GetI2P)
 
 If you have made a submission to this subreddit and it isn't showing up, PM the moderators! It might be stuck in the spam filter.
