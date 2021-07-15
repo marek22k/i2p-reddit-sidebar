@@ -45,8 +45,8 @@ For a more complete list of interesting I2P services, read the [Guide to I2P ser
 * [Visibility](http://visibility.i2p) Social Publishing
 
 ## Exploring I2P
-* [Identiguy](http://identiguy.i2p) List online .i2p sites
 * [Notbob](http://notbob.i2p) List online .i2p sites and categorizes them
+* [Identiguy](http://identiguy.i2p) List online .i2p sites
 
 ### I2P Name Registries
 * [inr.i2p](http://inr.i2p)
